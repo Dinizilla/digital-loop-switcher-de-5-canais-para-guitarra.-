@@ -1,0 +1,13 @@
+﻿Pino,Função
+"22, 24, 26, 28, 30",Relés Loop 1-5
+32,Relé Mute
+"34, 36, 38, 40, 42",Botões Preset 1-5
+2,Encoder CLK (interrupção)
+3,Encoder DT (interrupção)
+4,Encoder SW (click)
+"5, 6, 7","LED RGB (R, G, B)"
+8,OLED RST
+9,OLED DC
+10,OLED CS
+20 (SDA),PCF8574
+21 (SCL),PCF8574
